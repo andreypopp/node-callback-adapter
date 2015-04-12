@@ -30,6 +30,8 @@ ci::
 		$(MOCHA_OPTS) \
 		$(TESTS)
 
+lint::
+
 release-patch: test lint
 	@$(call release,patch)
 

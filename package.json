@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/andreypopp/node-callback-adapter",
   "dependencies": {
+    "babel-runtime": "^5.0.12",
     "bluebird": "^2.9.24"
   },
   "devDependencies": {
