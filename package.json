@@ -1,6 +1,6 @@
 {
   "name": "node-callback-adapter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adapt Promise returning functions to optionally accept Node-style callbacks as last argument",
   "main": "lib/index.js",
   "repository": {
