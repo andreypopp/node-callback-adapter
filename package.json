@@ -1,0 +1,26 @@
+{
+  "name": "node-callback-adapter",
+  "version": "1.0.0",
+  "description": "Adapt Promise returning functions to optionally accept Node-style callbacks as last argument",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andreypopp/node-callback-adapter.git"
+  },
+  "keywords": [
+    "decorator"
+  ],
+  "author": "Andrey Popp <8mayday@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreypopp/node-callback-adapter/issues"
+  },
+  "homepage": "https://github.com/andreypopp/node-callback-adapter",
+  "dependencies": {
+    "bluebird": "^2.9.24"
+  },
+  "devDependencies": {
+    "babel": "^5.0.12",
+    "mocha": "^2.2.4"
+  }
+}
